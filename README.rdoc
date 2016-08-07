@@ -1,11 +1,11 @@
 == README
 
-This Project was created using ```devise```.
+This Project was created using devise.
 
-+Project Information:+
+Project Information:
 The following was used to create this project
 
-* Ruby version - ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+* Ruby version - ruby 2.3.0
 
 * Rails version - Rails 4.2.5
 
